@@ -1,4 +1,4 @@
-// followed tutorial by Code Sketch: https://www.youtube.com/playlist?list=PLLX1I3KXZ-YH-woTgiCfONMya39-Ty8qw
+// inspired by tutorial series by Code Sketch: https://www.youtube.com/playlist?list=PLLX1I3KXZ-YH-woTgiCfONMya39-Ty8qw
 const cards = document.querySelectorAll('.match-card');
 let hasFlippedCard = false;
 let lockBoard = false;
